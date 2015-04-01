@@ -1,11 +1,11 @@
-# xuewzhang.github.io
+# davyxzhang.github.io
 
 My Github user page is at: 
-https://github.com/xuewzhang/
+https://github.com/davyxzhang/
 
 My Github Pages repo can be found at:  
-https://github.com/xuewzhang/xuewzhang.github.io/
+https://github.com/davyxzhang/davyxzhang.github.io/
 
 And, soon, you can see my customized homepage at:
 
-http://xuewzhang.github.io/
+http://davyxzhang.github.io/
