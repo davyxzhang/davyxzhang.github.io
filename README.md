@@ -6,6 +6,6 @@ https://github.com/davyxzhang/
 My Github Pages repo can be found at:  
 https://github.com/davyxzhang/davyxzhang.github.io/
 
-And, soon, you can see my customized homepage at:
+And, my customized homepage is at:
 
 http://davyxzhang.github.io/
