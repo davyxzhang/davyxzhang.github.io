@@ -272,7 +272,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    height: 960px;
+    height: 950px;
 }
 
 header .intro-text {
@@ -338,6 +338,10 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+}
+
+.white-font {
+    color: #fff;
 }
 
 @media(min-width:768px) {
@@ -652,11 +656,12 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#contact {
+section#portfolio {
     background-color: #222;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 section#contact .section-heading {
@@ -742,11 +747,12 @@ ul.social-buttons {
 }
 
 ul.social-buttons li a {
+    padding: 0 7px;
     display: block;
     width: 40px;
     height: 40px;
     border-radius: 100%;
-    font-size: 20px;
+    font-size: 25px;
     line-height: 40px;
     outline: 0;
     color: #fff;
